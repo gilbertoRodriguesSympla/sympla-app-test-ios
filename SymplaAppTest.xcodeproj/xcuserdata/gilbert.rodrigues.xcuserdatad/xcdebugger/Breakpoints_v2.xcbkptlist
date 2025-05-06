@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3A37B2A0-DD0B-41F1-AE17-32A94C4B86E8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B637E887-19F5-47B4-95A2-0526FF5B9F02"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SymplaAppTest/Sources/Networking/NetworkService/LiveNetworkingService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "performRequest(endpoint:method:headers:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B637E887-19F5-47B4-95A2-0526FF5B9F02 - f61fd6221dfc685c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SymplaAppTest.LiveNetworkingService.performRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(endpoint: Swift.String, method: SymplaAppTest.HTTPMethod, headers: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;) -&gt; RxSwift.PrimitiveSequence&lt;RxSwift.SingleTrait, &#x3c4;_0_0&gt;"
+                  moduleName = "SymplaAppTest.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gilbert.rodrigues/development/sympla-app-test-ios-app-example-74976a574084d701a0/SymplaAppTest/Sources/Networking/NetworkService/LiveNetworkingService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51">
+               </Location>
+               <Location
+                  uuid = "B637E887-19F5-47B4-95A2-0526FF5B9F02 - 23044a58303b0734"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (Swift.Error) -&gt; RxSwift.PrimitiveSequence&lt;RxSwift.SingleTrait, &#x3c4;_0_0&gt; in SymplaAppTest.LiveNetworkingService.performRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(endpoint: Swift.String, method: SymplaAppTest.HTTPMethod, headers: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;) -&gt; RxSwift.PrimitiveSequence&lt;RxSwift.SingleTrait, &#x3c4;_0_0&gt;"
+                  moduleName = "SymplaAppTest.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gilbert.rodrigues/development/sympla-app-test-ios-app-example-74976a574084d701a0/SymplaAppTest/Sources/Networking/NetworkService/LiveNetworkingService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
