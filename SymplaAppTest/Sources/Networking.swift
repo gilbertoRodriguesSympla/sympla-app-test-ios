@@ -3,7 +3,7 @@ import Foundation
 final class Networking {
 
     private let baseURL = URL(string: "https://api.sympla.com.br/public/v1.5.1")!
-    private let token = "[Coolar o token aqui]"
+    private let token = ""
     private let session = URLSession.shared
 
     func getEvents(completion: @escaping (Result<[Event], Error>) -> Void) {
