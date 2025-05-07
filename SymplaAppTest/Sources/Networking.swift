@@ -4,15 +4,14 @@ final class Networking {
 
     private let baseURL = URL(string: "https://api.sympla.com.br/public/v1.5.1")!
     private let token = ""
-    private let session = URLSession.shared
+    private lazy var session: URLSession = {
+        let configuration = URLSessionConfiguration.default
+        return URLSession(configuration: configuration)
+    }()
 
-    func getEvents(completion: @escaping (Result<[Event], Error>) -> Void) {
-        let path = "/events"
-        guard let url = URL(string: path, relativeTo: baseURL) else {
-            completion(.failure(NetworkError.invalidURL))
-            return
-        }
+    func getEvents(completion: @escaping (Result<EventResponse, Error>) -> Void) {
 
+        let url = baseURL.appendingPathComponent("events")
         var request = URLRequest(url: url)
         request.httpMethod = "GET"
         request.setValue(token, forHTTPHeaderField: "s_token")
@@ -32,7 +31,7 @@ final class Networking {
             decoder.dateDecodingStrategy = .iso8601
 
             do {
-                let events = try decoder.decode([Event].self, from: data)
+                let events = try decoder.decode(EventResponse.self, from: data)
                 completion(.success(events))
             } catch {
                 completion(.failure(error))

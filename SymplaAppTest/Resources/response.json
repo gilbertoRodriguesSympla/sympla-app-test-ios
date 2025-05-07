@@ -1,1 +1,82 @@
-{"data": [{"id": "s247e45", "reference_id": 2391621, "start_date": "2024-03-21T19:00:00-03:00", "end_date": "2024-03-30T18:00:00-03:00", "name": "Sympla & Lumx - CheckIn", "detail": "", "private_event": 1, "published": 1, "cancelled": 0, "image": "https://images.sympla.com.br/65fca06428b81.jpg", "url": "https://www.sympla.com.br/evento/sympla-lumx-checkin/2391621", "address": {"name": "Sympla", "address": "Rua Fernandes Tourinho", "address_num": "147", "city": "Belo Horizonte", "state": "MG", "country": "BRASIL", "lat": -19.9394051, "lon": -43.9362339}, "host": {"name": "Sympla"}, "category_prim": {"name": "outro"}, "category_sec": {"name": ""}}, {"id": "s2491b0", "reference_id": 2396592, "start_date": "2024-03-26T19:50:00-03:00", "end_date": "2024-03-28T17:30:00-03:00", "name": "[teste] SymplaX Design Check-in", "detail": "", "private_event": 0, "published": 1, "cancelled": 0, "image": "https://images.sympla.com.br/5f282a0c6a2d9.png", "url": "https://www.sympla.com.br/evento/teste-symplax-design-check-in/2396592", "address": {"name": "Vila Germ\u00e2nica", "address": "Rua Alberto Stein", "address_num": "199", "neighborhood": "Velha", "city": "Blumenau", "state": "SC", "zip_code": "89036-200", "country": "BRASIL", "lat": -26.9155433, "lon": -49.0846725}, "host": {"name": "Sympla"}, "category_prim": {"name": "musica"}, "category_sec": {"name": "outro"}}, {"id": "s24a6d2", "reference_id": 2402002, "start_date": "2024-04-02T16:30:00-03:00", "end_date": "2024-04-02T22:30:00-03:00", "name": "[TESTE] - Testes Symplax Atualizado", "detail": "", "private_event": 1, "published": 1, "cancelled": 0, "image": "https://images.sympla.com.br/660421792d4b6.png", "url": "https://www.sympla.com.br/evento/teste-testes-symplax-atualizado/2402002", "address": {"name": "Sympla", "address": "Avenida Nossa Senhora do Carmo", "address_num": "931", "neighborhood": "Sion", "city": "Belo Horizonte", "state": "MG", "zip_code": "30310-000", "country": "BRASIL", "lat": -19.9486209, "lon": -43.9352985}, "host": {"name": "Sympla"}, "category_prim": {"name": "outro"}, "category_sec": {"name": ""}}, {"id": "s24b790", "reference_id": 2406288, "start_date": "2024-04-10T09:30:00-03:00", "end_date": "2024-04-19T09:30:00-03:00", "name": "Novo Check-in - Lumx", "detail": "", "private_event": 0, "published": 1, "cancelled": 0, "image": "https://images.sympla.com.br/660bf96c7e015.jpg", "url": "https://www.sympla.com.br/evento/novo-check-in-lumx/2406288", "address": {"name": "Sympla", "address": "Avenida Nossa Senhora do Carmo", "address_num": "931", "neighborhood": "Sion", "city": "Belo Horizonte", "state": "MG", "zip_code": "30310-000", "country": "BRASIL", "lat": -19.9486209, "lon": -43.9352985}, "host": {"name": "Sympla"}, "category_prim": {"name": "outro"}, "category_sec": {"name": ""}}, {"id": "s23a514", "reference_id": 2336020, "start_date": "2024-04-11T12:39:00-03:00", "end_date": "2030-01-01T14:30:00-03:00", "name": "[TESTE] Evento Presencial X", "detail": "", "private_event": 1, "published": 1, "cancelled": 0, "image": "https://images.sympla.com.br/65c3bcc509f38.jpg", "url": "https://www.sympla.com.br/evento/teste-evento-presencial-x/2336020", "address": {"name": "Mato Grosso do Sul", "address": "Mato Grosso do Sul", "address_num": "0", "city": "Mato ", "state": "MS", "country": "BRASIL", "lat": -20.7722295, "lon": -54.7851531}, "host": {"name": "Sympla"}, "category_prim": {"name": "outro"}, "category_sec": {"name": "outro"}}, {"id": "s249ec2", "reference_id": 2399938, "start_date": "2024-05-14T09:15:00-03:00", "end_date": "2024-05-14T09:20:00-03:00", "name": "[TESTE] - Testes App Sussu (N\u00e3o mexer)", "detail": "", "private_event": 1, "published": 1, "cancelled": 0, "image": "https://images.sympla.com.br/660421792d4b6.png", "url": "https://www.sympla.com.br/evento/teste-testes-app-sussu-nao-mexer/2399938", "address": {"name": "Sympla", "address": "Avenida Nossa Senhora do Carmo", "address_num": "931", "neighborhood": "Sion", "city": "Belo Horizonte", "state": "MG", "zip_code": "30310-000", "country": "BRASIL", "lat": -19.9486209, "lon": -43.9352985}, "host": {"name": "Sympla"}, "category_prim": {"name": "outro"}, "category_sec": {"name": ""}}, {"id": "s25b7ff", "reference_id": 2471935, "start_date": "2024-05-16T17:30:00-03:00", "end_date": "2024-05-19T15:30:00-03:00", "name": "Teste evento Tokenizado Vlad e Miguel", "detail": "", "private_event": 0, "published": 1, "cancelled": 0, "image": "https://images.sympla.com.br/6646503832f9d.jpg", "url": "https://www.sympla.com.br/evento/teste-evento-tokenizado-vlad-e-miguel/2471935", "address": {"name": "Mato Grosso do Sul", "address": "Mato Grosso do Sul", "address_num": "0", "city": "Mato ", "state": "MS", "country": "BRASIL", "lat": -20.7722295, "lon": -54.7851531}, "host": {"name": "Sympla"}, "category_prim": {"name": "cinema-fotografia"}, "category_sec": {"name": ""}}, {"id": "s279738", "reference_id": 2594616, "start_date": "2024-08-14T09:52:00-03:00", "end_date": "2024-08-20T12:00:00-03:00", "name": "[SYMPLAX] Teste ECDSA", "detail": "", "private_event": 1, "published": 1, "cancelled": 0, "image": "https://images.sympla.com.br/66bb77b4cc1d9.jpg", "url": "https://www.sympla.com.br/evento/symplax-teste-ecdsa/2594616", "address": {"name": "Mato Grosso do Sul", "address": "Mato Grosso do Sul", "address_num": "0", "city": "Mato ", "state": "MS", "country": "BRASIL", "lat": -20.7722295, "lon": -54.7851531}, "host": {"name": "Sympla"}, "category_prim": {"name": "casa-e-estilo-de-vida"}, "category_sec": {"name": ""}}, {"id": "s28d206", "reference_id": 2675206, "start_date": "2024-11-09T12:30:00-03:00", "end_date": "2024-11-10T12:30:00-03:00", "name": "[TESTE] Nova transfer\u00eancia de ingressos", "detail": "", "private_event": 1, "published": 1, "cancelled": 0, "image": "https://images.sympla.com.br/6703fbe6d1f6c.png", "url": "https://www.sympla.com.br/evento/teste-nova-transferencia-de-ingressos/2675206", "address": {"name": "Sympla", "address": "Avenida Nossa Senhora do Carmo", "address_num": "931", "neighborhood": "Sion", "city": "Belo Horizonte", "state": "MG", "zip_code": "30310-000", "country": "BRASIL", "lat": -19.9486209, "lon": -43.9352985}, "host": {"name": "Sympla"}, "category_prim": {"name": "outro"}, "category_sec": {"name": ""}}, {"id": "s2a5753", "reference_id": 2774867, "start_date": "2024-12-18T14:35:00-03:00", "end_date": "2024-12-21T14:30:00-03:00", "name": "Teste - Gaby", "detail": "", "private_event": 1, "published": 1, "cancelled": 0, "image": "https://images.sympla.com.br/67630737cada1.jpg", "url": "https://www.sympla.com.br/evento/teste-gaby/2774867", "address": {"name": "Local a definir", "address_num": "0", "city": "Juquitiba", "state": "SP", "country": "BRASIL", "lat": -23.9303533, "lon": -47.0707964}, "host": {"name": "Sympla"}, "category_prim": {"name": "artesanato"}, "category_sec": {"name": "curso-aula-treinamento-ou-workshop"}}], "pagination": {"has_next": false, "has_prev": false, "quantity": 10, "offset": 0, "page": 1, "page_size": 100}, "sort": {"field_sort": "start_date", "sort": "asc"}}
+{
+    "data": [
+        {
+            "id": "s247e45",
+            "reference_id": 2391621,
+            "start_date": "2024-03-21T19:00:00-03:00",
+            "end_date": "2024-03-30T18:00:00-03:00",
+            "name": "Sympla - CheckIn",
+            "detail": "",
+            "private_event": 1,
+            "published": 1,
+            "cancelled": 0,
+            "image": "https://images.sympla.com.br/65fca06428b81.jpg",
+            "url": "https://www.sympla.com.br/evento/sympla-lumx-checkin/2391621",
+            "address": {
+                "name": "Sympla",
+                "address": "Rua Fernandes Tourinho",
+                "address_num": "147",
+                "city": "Belo Horizonte",
+                "state": "MG",
+                "country": "BRASIL",
+                "lat": -19.9394051,
+                "lon": -43.9362339
+            },
+            "host": {
+                "name": "Sympla"
+            },
+            "category_prim": {
+                "name": "outro"
+            },
+            "category_sec": {
+                "name": ""
+            }
+        },
+        {
+            "id": "s2491b0",
+            "reference_id": 2396592,
+            "start_date": "2024-03-26T19:50:00-03:00",
+            "end_date": "2024-03-28T17:30:00-03:00",
+            "name": "[teste] SymplaX Design Check-in",
+            "detail": "",
+            "private_event": 0,
+            "published": 1,
+            "cancelled": 0,
+            "image": "https://images.sympla.com.br/5f282a0c6a2d9.png",
+            "url": "https://www.sympla.com.br/evento/teste-symplax-design-check-in/2396592",
+            "address": {
+                "name": "Vila Germ\u00e2nica",
+                "address": "Rua Alberto Stein",
+                "address_num": "199",
+                "neighborhood": "Velha",
+                "city": "Blumenau",
+                "state": "SC",
+                "zip_code": "89036-200",
+                "country": "BRASIL",
+                "lat": -26.9155433,
+                "lon": -49.0846725
+            },
+            "host": {
+                "name": "Sympla"
+            },
+            "category_prim": {
+                "name": "musica"
+            },
+            "category_sec": {
+                "name": "outro"
+            }
+        }
+    ],
+    "pagination": {
+        "has_next": false,
+        "has_prev": false,
+        "quantity": 10,
+        "offset": 0,
+        "page": 1,
+        "page_size": 100
+    },
+    "sort": {
+        "field_sort": "start_date",
+        "sort": "asc"
+    }
+}
